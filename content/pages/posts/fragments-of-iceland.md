@@ -40,6 +40,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
+subtitle: sda
 ---
 
 Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
